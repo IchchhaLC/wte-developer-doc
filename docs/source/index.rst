@@ -21,4 +21,4 @@ Contents
 .. toctree::
 
    template
-   api
+   hooks
