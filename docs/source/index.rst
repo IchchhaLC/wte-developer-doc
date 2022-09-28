@@ -8,7 +8,7 @@ Developer Doc for “How to create a theme for WTE?”
 First of all, to override the wp travel engine’s template files, create a folder named “wp-travel-engine” in the themes source file.
 
 
-Check out the :doc:`usage` section for further information, including
+Check out the :doc:`template` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
@@ -20,5 +20,5 @@ Contents
 
 .. toctree::
 
-   usage
+   template
    api
