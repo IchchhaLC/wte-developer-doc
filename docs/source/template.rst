@@ -4,7 +4,6 @@ Overriding Template Files
 .. _installation:
 
 Cart Page Template
-------------
 
 /wp-travel-engine/content-cart.php
 
@@ -13,13 +12,11 @@ Cart Page Template
    (.venv) $ pip install lumache
 
 Thank you Page Template
-----------------
 
 /wp-travel-engine/thank-you/thank-you.php
 /wp-travel-engine/thank-you/thankyou-remaining-payment.php
 
 Checkout Page Template
-------------
 
 /wp-travel-engine/template-checkout-new.php
 
